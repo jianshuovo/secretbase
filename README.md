@@ -3,7 +3,7 @@
 ## 周计划
 + 了解一下git的概念与用途
 + 学习一下Markdown的基本语法
-+ 试用一下git以及Markdown语法的应用
++ 试用一下git以及Markdown语法的应用，比如git的clone、add、commit和push
 + ~~搞一搞校规校纪及安全常识~~
 -------
 ## ABOUT GIT
